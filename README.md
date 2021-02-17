@@ -13,6 +13,9 @@ C (C99 version)
 ## How to run
 Execute 
 
+## Input tests
+Execute 
+
 ## Authors
 - [Panagiotis Nikitakis](https://www.linkedin.com/in/panagiotis-nikitakis/)
 - [Christos Axelos](https://linkedin.com/in/christos-axelos-748386149)
