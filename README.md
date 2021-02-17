@@ -8,10 +8,13 @@ Execute programs written in a custom programming language called SimpleScript. T
 ![SimpleScript syntax](https://github.com/pnikitakis/multithreading-intepreter/blob/main/SimpleScript_syntax.png)
 
 ## Prerequisites
-C (C99 version)
+- C
+- Make (sudo apt install make)
+- GCC (sudo apt install gcc)
 
 ## How to run
-`Makefile` 
+On terminal run `make` to build the executable C program.  
+Then `./hw4b` to start the program.
 
 ## Input tests
 1. `init.txt` is a dummy program to make sure everything is working. It test if variables are storing value correctly.
