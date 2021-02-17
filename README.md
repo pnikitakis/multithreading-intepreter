@@ -13,8 +13,12 @@ Execute programs written in a custom programming language called SimpleScript. T
 - GCC (sudo apt install gcc)
 
 ## How to run
-On terminal run `make` to build the executable C program.  
-Then `./hw4b` to start the program.
+1. On terminal run `make` to build the executable C program.  
+2. Start the intepreter with `./hw4b`.
+3. To run a program enter `run inputFile.txt [arg0] [arg1] [argN]`
+4. Enter `list` to see every program's status and ID.
+5. Enter `kill [ID]` to stop a program.
+6. Enter `exit` to stop the intepreter.
 
 ## Input tests
 1. `init.txt` is a dummy program to make sure everything is working. It test if variables are storing value correctly.
