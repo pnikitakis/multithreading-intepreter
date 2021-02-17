@@ -1,5 +1,5 @@
 # multithreading-intepreter
-Intepreter that executes SimpleScript programs with multithreading. University project [no.4] for Concurrent Programming (Winter 2017).
+Intepreter that executes SimpleScript programs with multithreading. University project [no.4] for Concurrent Programming (Fall 2017).
 
 ## Description
 Execute programs written in a custom programming language called SimpleScript. Those programs will be run from command line and may have multiple arguments. The intepreter can run multiple programs at the same time using multithreading. Programs with same variable name will have same memory on the system, so the intepreter is responsible to manage common memory.
